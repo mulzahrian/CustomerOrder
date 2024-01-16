@@ -1,0 +1,15 @@
+D:\Code Learning\CustomerOrder\CustomerOrderView\CustomerOrderView\bin\Debug\net6.0\CustomerOrderView.exe
+D:\Code Learning\CustomerOrder\CustomerOrderView\CustomerOrderView\bin\Debug\net6.0\CustomerOrderView.deps.json
+D:\Code Learning\CustomerOrder\CustomerOrderView\CustomerOrderView\bin\Debug\net6.0\CustomerOrderView.runtimeconfig.json
+D:\Code Learning\CustomerOrder\CustomerOrderView\CustomerOrderView\bin\Debug\net6.0\CustomerOrderView.dll
+D:\Code Learning\CustomerOrder\CustomerOrderView\CustomerOrderView\bin\Debug\net6.0\CustomerOrderView.pdb
+D:\Code Learning\CustomerOrder\CustomerOrderView\CustomerOrderView\obj\Debug\net6.0\CustomerOrderView.csproj.AssemblyReference.cache
+D:\Code Learning\CustomerOrder\CustomerOrderView\CustomerOrderView\obj\Debug\net6.0\CustomerOrderView.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Learning\CustomerOrder\CustomerOrderView\CustomerOrderView\obj\Debug\net6.0\CustomerOrderView.AssemblyInfoInputs.cache
+D:\Code Learning\CustomerOrder\CustomerOrderView\CustomerOrderView\obj\Debug\net6.0\CustomerOrderView.AssemblyInfo.cs
+D:\Code Learning\CustomerOrder\CustomerOrderView\CustomerOrderView\obj\Debug\net6.0\CustomerOrderView.csproj.CoreCompileInputs.cache
+D:\Code Learning\CustomerOrder\CustomerOrderView\CustomerOrderView\obj\Debug\net6.0\CustomerOrderView.dll
+D:\Code Learning\CustomerOrder\CustomerOrderView\CustomerOrderView\obj\Debug\net6.0\refint\CustomerOrderView.dll
+D:\Code Learning\CustomerOrder\CustomerOrderView\CustomerOrderView\obj\Debug\net6.0\CustomerOrderView.pdb
+D:\Code Learning\CustomerOrder\CustomerOrderView\CustomerOrderView\obj\Debug\net6.0\CustomerOrderView.genruntimeconfig.cache
+D:\Code Learning\CustomerOrder\CustomerOrderView\CustomerOrderView\obj\Debug\net6.0\ref\CustomerOrderView.dll
